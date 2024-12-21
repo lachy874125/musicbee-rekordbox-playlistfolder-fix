@@ -1,0 +1,1 @@
+# musicbee-rekordbox-playlistfolder-fix
